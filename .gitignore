@@ -5,7 +5,7 @@
 *.log
 *.pdf
 *.psd
-*.sublime*
+*.sublime*п
 node_modules/
 npm-debug.*
 Thumbs.db
